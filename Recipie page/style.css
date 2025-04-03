@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+  font-family: outfit;  
+  background-color: hsl(30, 54%, 90%);
+  color: hsl(30, 10%, 34%);
+  line-height: 1.6;
+  padding: 50px 0;
+}
+
+.container{
+  background-color:  hsl(0, 0%, 100%);
+  border-radius: 20px;
+  padding: 40px;
+
+}
+
+img{
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+
+h1{
+  font-family: young serif;
+  font-size: 2.5rem;
+  color: hsl(24, 5%, 18%);
+}
+
+h2{
+  font-family:  young serif;
+  color:  hsl(14, 45%, 36%);
+  margin: 25px 0 20px;
+}
+
+h3{
+  color:  hsl(332, 51%, 32%);
+  margin-bottom: 15px;
+  font-size: 1.3rem;
+}
+
+.prep-time{
+  background-color:  hsl(330, 100%, 98%);
+  padding: 25px;
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+
+.prep-time ul{
+  padding-left: 20px;
+}
+
+.nutrition-value{
+  padding-left: 17rem;
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
+  padding-bottom: 1rem;
+}
